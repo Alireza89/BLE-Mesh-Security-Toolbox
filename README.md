@@ -7,7 +7,7 @@ Bluetooth Low Energy Mesh Security Toolbox
 
     "What You Seek, is Who You Are" - Rumi
 ------------------------------------------------------------------------------------------------
-This repo enebles you to Encrypt messages for transmition in a Bluetooth Low Energy Mesh Network.
+This repo enebles you to encrypt messages for transmition in a Bluetooth Low Energy Mesh Network.
 This repo is self-contained and do not need to call any crypto functions from the OS
 
 Simple demonstration:
