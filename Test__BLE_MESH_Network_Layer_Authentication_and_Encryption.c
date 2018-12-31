@@ -25,7 +25,7 @@ is 8 Bytes for the Control messages
 **/
 
 #include <stdio.h>
-#include "aes_ccm.h"
+#include "AES_CCM.h"
 
 int main()
 {
