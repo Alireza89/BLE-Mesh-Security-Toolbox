@@ -11,7 +11,7 @@ This repo enables you to encrypt messages for transmition in a Bluetooth Low Ene
 It is self-contained and do not need to call any crypto functions from the OS.
 
 Simple demonstration:
-1. Create a console C project with Dev-Cpp (be careful to select C and not C++)
+1. Create a new console C project with Dev-C++ (be careful to select C and not C++)
 2. Add the following files to the project
 
     AES_128.h
