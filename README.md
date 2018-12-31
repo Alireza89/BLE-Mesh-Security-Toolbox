@@ -8,7 +8,7 @@ Bluetooth Low Energy Mesh Security Toolbox
     "What You Seek, is Who You Are" - Rumi
 ------------------------------------------------------------------------------------------------
 This repo enables you to encrypt messages for transmition in a Bluetooth Low Energy Mesh Network.
-This repo is self-contained and do not need to call any crypto functions from the OS
+It is self-contained and do not need to call any crypto functions from the OS.
 
 Simple demonstration:
 1. Create a console C project with Dev-Cpp (be careful to select C and not C++)
