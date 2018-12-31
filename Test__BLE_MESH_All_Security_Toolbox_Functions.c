@@ -11,7 +11,7 @@
 #include <stdint.h>
 #include "AES_128.h"
 #include "AES_CMAC.h"
-#include "aes_ccm.h"
+#include "AES_CCM.h"
 
 int main()
 {
