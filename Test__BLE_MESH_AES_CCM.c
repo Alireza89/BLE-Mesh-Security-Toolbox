@@ -7,7 +7,7 @@
 */
 
 #include <stdio.h>
-#include "aes_ccm.h"
+#include "AES_CCM.h"
 
 int main()
 {
