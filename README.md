@@ -29,3 +29,5 @@ Simple demonstration:
     Test__BLE_MESH_All_Security_Toolbox_Functions.c
 	
 3. compile the project and see the encrypted BLE Mesh network packet in the prompt console.
+
+If using Linux, use gcc for compilation.
